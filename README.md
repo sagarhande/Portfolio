@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/sagarhande/Portfolio/commit/20a939d7bd39e85b0731f6a2bf4a345b4df680aa">
+<img align="center" src="https://github.com/sagarhande/Portfolio/blob/main/.github/images/ss.png?raw=true">
 
 
 ### Color code
