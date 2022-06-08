@@ -1,4 +1,4 @@
-<img align="center" src="https://github.com/sagarhande/Portfolio/blob/main/.github/images/ss.png?raw=true">
+<img align="center" src="https://github.com/sagarhande/Portfolio/blob/main/.github/images/ss2.png?raw=true">
 
 
 ### Color code
